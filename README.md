@@ -15,7 +15,7 @@ I attack AI agents and chatbots the way a real adversary would: prompt injection
 | --- | --- |
 | **Now** | Founder of [Hoqo](https://hoqo.ai), a red teaming service for AI agents |
 | **Research** | [jp-inject](https://github.com/ryoyakubo-ai/jp-inject): prompt injection written the Japanese way, measured |
-| **Before** | AI Red Teaming & Evaluation Contractor, AI Safety Evaluator (freelance, 2025–2026) |
+| **Before** | AI Red Teaming & Evaluation Contractor, AI Safety Evaluator (freelance, 2024–2026) |
 | **Languages** | Japanese · Korean · English |
 
 ---
@@ -48,9 +48,18 @@ I attack AI agents and chatbots the way a real adversary would: prompt injection
 
 ## Background
 
-- **AI Red Teaming & Evaluation Contractor** (freelance, 2025–2026): adversarial testing of AI models and evaluation of their responses to harmful requests
-- **AI Safety Evaluator** (freelance, 2025)
-- National Institute of Technology, Kurume College (Electrical & Electronic Engineering, 2025) · 42 Tokyo
+**AI Red Teaming & Evaluation Contractor** · Freelance, remote (US) · Oct 2025 – Sep 2026
+Red teamed and evaluated AI models on contract for AI companies.
+- Wrote adversarial prompts, including jailbreak attempts and manipulative multi-step requests, to find where models break their safety rules
+- Tested how models handle the same harmful request when it is reworded, split across turns, or written in other languages
+- Documented failures with clear, reproducible examples
+
+**AI Safety Evaluator** · Freelance, remote (US) · Jul 2024 – Sep 2025
+Evaluated AI model responses for safety and quality on contract for AI companies.
+- Rated responses to harmful, manipulative and adversarial requests against detailed safety guidelines
+- Flagged unsafe, inaccurate or policy-violating answers, with a written rationale for each
+
+**Education** · National Institute of Technology, Kurume College (Electrical & Electronic Engineering, 2025) · 42 Tokyo
 
 ## Tools
 
