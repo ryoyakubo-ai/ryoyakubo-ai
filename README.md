@@ -48,13 +48,13 @@ I attack AI agents and chatbots the way a real adversary would: prompt injection
 
 ## Background
 
-**AI Red Teaming & Evaluation Contractor** · Freelance, remote (US) · Oct 2025 – Sep 2026
+**AI Red Teaming & Evaluation Contractor** · Freelance, remote (US) · Oct 2025 – Sep 2026<br>
 Red teamed and evaluated AI models on contract for AI companies.
 - Wrote adversarial prompts, including jailbreak attempts and manipulative multi-step requests, to find where models break their safety rules
 - Tested how models handle the same harmful request when it is reworded, split across turns, or written in other languages
 - Documented failures with clear, reproducible examples
 
-**AI Safety Evaluator** · Freelance, remote (US) · Jul 2024 – Sep 2025
+**AI Safety Evaluator** · Freelance, remote (US) · Jul 2024 – Sep 2025<br>
 Evaluated AI model responses for safety and quality on contract for AI companies.
 - Rated responses to harmful, manipulative and adversarial requests against detailed safety guidelines
 - Flagged unsafe, inaccurate or policy-violating answers, with a written rationale for each
