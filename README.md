@@ -1,4 +1,8 @@
-<p align="center">
+# Ryoya Kubo
+
+**AI red teaming & prompt-injection research for LLM apps and AI agents**
+
+<p>
   <a href="https://hoqo.ai"><img src="https://img.shields.io/badge/Hoqo-hoqo.ai-1C1B1A?style=flat-square" alt="Hoqo"></a>
   <a href="https://www.linkedin.com/in/ryoyakubo"><img src="https://img.shields.io/badge/LinkedIn-ryoyakubo-1C1B1A?style=flat-square" alt="LinkedIn"></a>
   <a href="mailto:hello@hoqo.ai"><img src="https://img.shields.io/badge/Email-hello%40hoqo.ai-1C1B1A?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
